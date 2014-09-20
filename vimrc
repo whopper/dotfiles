@@ -43,13 +43,13 @@ Bundle 'Gundo'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'scrooloose/nerdtree'
 Bundle 'hunner/vim-puppet'
+Bundle 'kien/ctrlp.vim'
 " Four needed for snipmate
 Bundle "MarcWeber/vim-addon-mw-utils"
 Bundle "tomtom/tlib_vim"
 Bundle "garbas/vim-snipmate"
 Bundle "honza/vim-snippets"
 "
-Bundle 'kchmck/vim-coffee-script'
 " Installing plugins the first time
 " If exists, skip
 if has_vundle == 0

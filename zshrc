@@ -1,7 +1,7 @@
 export EDITOR='vim'
 export PATH="$HOME/bin:$HOME/.bin:/usr/local/homebrew/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:~/bin:$PATH"
 export PATH=~/.rbenv/bin:$PATH
-eval "$(rbenv init -)"
+#eval "$(rbenv init -)"
 
 # Path to your oh-my-zsh configuration.
 ZSH=$HOME/.oh-my-zsh
@@ -46,9 +46,6 @@ alias vf='vim -f'
 # Latex
 alias lpdf='pdflatex'
 alias lrtf='latex2rtf'
-
-# Word is for opening RTF files quickly in Microsoft Word
-alias word='open -a "Microsoft Word"'
 
 # todo.txt-cli
 function t() {
@@ -98,6 +95,3 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 
-#echo "huehuehuehue"
-# I was nice and warned you
-#set -e
