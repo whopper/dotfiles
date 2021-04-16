@@ -1,2 +1,2 @@
-# An example of a hanging bootstrap script
-while true; do sleep 2; done
+# An example of an erroring bootstrap script
+non-existent-command
