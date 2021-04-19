@@ -1,2 +1,2 @@
 # An example of an erroring bootstrap script
-exit 1
+exit 0
