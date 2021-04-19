@@ -1,2 +1,3 @@
 # An example of an erroring bootstrap script
 sleep 400
+touch /tmp/foobarbaz
